@@ -17,7 +17,7 @@ void setup() {
 
   // --- Pesan Startup ---
   lcd.setCursor(0, 0);
-  lcd.print("Sietem Kecerahan");
+  lcd.print("Sistem Kecerahan");
   lcd.setCursor(0, 1);
   lcd.print("Otomatis");
   delay(2000);
