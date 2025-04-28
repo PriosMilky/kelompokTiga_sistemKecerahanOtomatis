@@ -22,14 +22,17 @@ Sistem otomatis untuk mengatur kecerahan lampu berdasarkan intensitas cahaya sek
 ## 🛠️ Pembagian Tugas Kelompok  
 | Anggota           | Peran                               |  
 |-------------------|-------------------------------------|  
-| Pahrul Hidayat    | Membuat Sistem Kecerahan Lampu Otomatis dan Presentasi |  
-| Agung Yuda        | Membantu Merancang Arduino dan Presentasi      |  
-| Devi Githa        | Menyusun Presentasi dan Membuat Dokumentasi serta Video.     |  
+| Pahrul Hidayat Koswara - 21552011379  (Ketua)  | Membuat Sistem Kecerahan Lampu Otomatis dan Presentasi |  
+| Agung Yuda Pratama - 21552011485      | Membantu Merancang Arduino dan Presentasi      |  
+| Devi Githa Rahma Aisyah - 21552011322       | Menyusun Presentasi dan Membuat Dokumentasi serta Video.     |  
 
 ## 🔗 Tautan Proyek  
 - **Simulasi Online**: [Wokwi](https://wokwi.com/projects/429004339649088513)  
 - **Kode Sumber**: [GitHub](https://github.com/PriosMilky/kelompokTiga_sistemKecerahanOtomatis)
-  [Youtube] https://youtu.be/ckuSh8a-4O0
+- **Link Youtube 1**: [Youtube](link)
+- **Link Youtube 2**: [Youtube](https://youtu.be/Yim0_72kj1Q)
+- **Link Youtube 3**: [Youtube](https://youtu.be/ckuSh8a-4O0)
+ 
 
 ## 📸 Dokumentasi  
 ![image](https://github.com/user-attachments/assets/a0bda507-9341-49f4-8167-636015c6c94c)
