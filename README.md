@@ -29,7 +29,7 @@ Sistem otomatis untuk mengatur kecerahan lampu berdasarkan intensitas cahaya sek
 ## 🔗 Tautan Proyek  
 - **Simulasi Online**: [Wokwi](https://wokwi.com/projects/429004339649088513)  
 - **Kode Sumber**: [GitHub](https://github.com/PriosMilky/kelompokTiga_sistemKecerahanOtomatis)
-- **Link Youtube 1**: [Youtube](link)
+- **Link Youtube 1**: [Youtube](https://youtu.be/BZltLMC5xIw)
 - **Link Youtube 2**: [Youtube](https://youtu.be/Yim0_72kj1Q)
 - **Link Youtube 3**: [Youtube](https://youtu.be/ckuSh8a-4O0)
  
